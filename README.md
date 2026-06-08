@@ -67,4 +67,3 @@ Financial institutions face challenges in identifying customers who are likely t
 ## Certificate
 Successfully completed the GenAI Powered Data Analytics Job Simulation by Forage (June 2026).
 
-Successfully completed the GenAI Powered Data Analytics Job Simulation by Forage (June 2026).
